@@ -1,2 +1,3 @@
-# Cartoonify-Image-Project-
+ # Cartoonify-Image-Project-
 Cartoonification refers to the process of converting real-life photographic images into visually stylized cartoon-like representations. This transformation requires distinguishing between significant image details and less important textures to create an artistic effect similar to hand-drawn cartoons. 
+This project focuses on implementing a cartoonification system using classical image processing techniques rather than deep learning models. By leveraging operations such as grayscale conversion, edge detection, colour quantization, and bilateral filtering, the project demonstrates how simple yet effective algorithms can turn natural images into stylized cartoon-like visuals. The approach is computationally efficient, easy to reproduce, and suitable for both academic and real-time applications.
